@@ -1,0 +1,19 @@
+# Streamlit Cloud 配置文件
+# 这个文件会告诉Streamlit Cloud使用哪个主文件
+
+[theme]
+primaryColor = "#1E88E5"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F0F2F6"
+textColor = "#262730"
+font = "sans serif"
+
+[browser]
+gatherUsageStats = false
+
+[server]
+maxUploadSize = 200
+
+# 主应用文件配置
+# Streamlit Cloud会自动读取这个配置
+# 如果这里设置了，会覆盖Web界面上的设置

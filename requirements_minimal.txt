@@ -1,0 +1,2 @@
+# 最小依赖 - 只安装streamlit
+streamlit>=1.28.0

@@ -1,0 +1,8 @@
+{
+  "backend": "blockrun",
+  "api_key": "",
+  "base_url": "https://blockrun.ai/api/v1",
+  "model": "nvidia/muse-glimmer-30b",
+  "stt_lang": "en-US",
+  "tts_lang": "en-US"
+}
